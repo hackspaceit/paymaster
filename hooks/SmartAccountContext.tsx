@@ -8,7 +8,7 @@ import {
   custom,
   http,
 } from "viem";
-import { base, baseGoerli } from "viem/chains";
+import { base } from "viem/chains";
 import {
   WalletClientSigner,
   type SmartAccountSigner,

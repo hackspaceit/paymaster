@@ -6,8 +6,7 @@ export const NFT_ADDRESS = "0x6527E5052de5521fE370AE5ec0aFCC6cD5a221de";
 
 export const BASE_SCAN_URL = "https://basescan.org";
 export const BASE_PAYMASTER_URL = "https://paymaster.base.org";
-export const BASE_ALCHEMY_RPC_URL =
-  "https://base-mainnet.g.alchemy.com/v2";
+export const BASE_ALCHEMY_RPC_URL = "https://base-mainnet.g.alchemy.com/v2";
 
 export const PRE_VERIFICATION_GAS_BUFFER = BigInt(2600);
 export const VERIFICATION_GAS_LIMIT_BUFFER = BigInt(16000);
