@@ -6,7 +6,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "npm run build",
+    "build": "yarn build",
     "start": "next start",
     "format": "npx prettier --write \"{__tests__,components,pages,hooks,lib,styles}/**/*.{ts,tsx,js,jsx}\"",
     "lint": "next lint && npx prettier --check \"{__tests__,components,pages,hooks,lib,styles}/**/*.{ts,tsx,js,jsx}\" && npx tsc --noEmit"
