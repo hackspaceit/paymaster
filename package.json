@@ -7,7 +7,7 @@
   "script":
 {
    "dev": "next dev",
-   "build": "next build", 
+   "build": "npm run build", 
     "start": "next start",
     "lint": "next lint"
 },
